@@ -1,3 +1,2 @@
-thislist = ["apple", "banana", "cherry", "apple", "cherry"]
-
-print(thislist)
+x = 5
+print(type(x)) 
